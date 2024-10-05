@@ -4,8 +4,7 @@
   Portfolio ➡️ www.radifr.xyz
     </div>
 
-# 💫 About Me
-I'm a Computer Science student. I have a passion for coding, software development, and creating impactful applications.
+
 
 
 
